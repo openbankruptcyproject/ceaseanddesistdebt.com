@@ -6,6 +6,94 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
+## Cease Communication Letter for Debt Collectors - Free Template [2026]
+Source: https://ceaseanddesistdebt.com/cease-communication-letter.html
+
+Cease Communication Letter for Debt Collectors
+
+A free template letter that legally stops debt collectors from contacting you
+
+Home » Cease Communication Letter
+
+Your Right to Stop Debt Collection Communication
+
+Under the Fair Debt Collection Practices Act (FDCPA), 15 U.S.C. Section 1692c(c), you have the legal right to demand that a debt collector stop all communication with you. Once the collector receives your written cease communication letter, they can only contact you to: (1) acknowledge they received your letter, (2) notify you of a specific action they intend to take (such as filing a lawsuit), or (3) inform you they are terminating collection efforts.
+
+Free Cease Communication Letter Template
+
+Copy and customize this template. Send it via certified mail with return receipt requested so you have proof of delivery.
+
+[Your Name]
+[Your Address]
+[City, State ZIP]
+
+[Date]
+
+[Debt Collector Name]
+[Debt Collector Address]
+[City, State ZIP]
+
+Re: Account Number [XXXX] (if known)
+
+Dear Sir or Madam:
+
+Pursuant to my rights under the Fair Debt Collection Practices Act, 15 U.S.C. Section 1692c(c), I am requesting that you cease all communication with me regarding the above-referenced account and any other debts you allege I owe.
+
+This letter is not an acknowledgment that I owe this debt or any portion of it. I am exercising my legal right to direct you to stop contacting me.
+
+Please govern yourself accordingly.
+
+Sincerely,
+[Your Signature]
+[Your Printed Name]
+
+What Happens After You Send the Letter
+
+After receiving your cease communication letter:
+
+The collector must stop calling, texting, emailing, and mailing you
+
+They can still file a lawsuit - the letter does not prevent legal action
+
+The debt does not go away - it remains valid and may appear on your credit report
+
+The collector may sell the debt to another collector (who is also bound by FDCPA)
+
+If they continue contacting you after receiving the letter, they are violating the FDCPA and you may have grounds for a lawsuit ($1,000 statutory damages plus actual damages and attorney fees)
+
+When to Use a Cease Communication Letter vs. Filing Bankruptcy
+
+A cease communication letter is a temporary fix - it stops the calls but does not eliminate the debt. If you are overwhelmed by multiple debts, filing bankruptcy may be a more comprehensive solution. The automatic stay in bankruptcy stops all collection activity - including lawsuits - and applies to all creditors simultaneously.
+
+Frequently Asked Questions
+
+Does a cease communication letter stop all debt collection?
+
+It stops the specific debt collector who receives the letter from calling, texting, emailing, or mailing you. It does not prevent lawsuits, does not eliminate the debt, and does not affect original creditors (not covered by FDCPA).
+
+Can debt collectors ignore a cease and desist letter?
+
+No. A debt collector who continues contacting you after receiving a written cease communication notice is violating federal law. You can sue for $1,000 in statutory damages plus actual damages and attorney fees.
+
+Should I send a cease communication letter or file bankruptcy?
+
+If you have one or two debts and just want the calls to stop, a letter may suffice. If you have multiple unpayable debts, bankruptcy provides broader protection - the automatic stay stops all creditor contact and a discharge permanently eliminates eligible debts.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Based on the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) and CFPB Regulation F (12 CFR 1006). Not legal advice.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Automatic Stay
+
+Free education. Not legal advice. A project of the Open Bankruptcy Project.
+
+---
+
 ## When Debt Collectors Violate the Law
 Source: https://ceaseanddesistdebt.com/collector-violations.html
 
@@ -15,13 +103,15 @@ Recognizing and Documenting FDCPA Violations
 
 ← Back to ceaseanddesistdebt.com
 
+Home›When Debt Collectors Violate the Law | ceaseanddesistdebt.com›When Debt Collectors Violate the Law
+
 Common FDCPA Violations
 
 Calling before 8 AM or after 9 PM. Calling your workplace after being told not to. Threatening arrest or jail. Using profane or abusive language. Calling repeatedly to harass (8+ calls per week on the same debt violates Regulation F). Contacting third parties about your debt. Failing to send a validation notice. Continuing to collect after a timely dispute without verification. Misrepresenting the amount owed. Threatening legal action they do not intend to take.
 
 How to Document Violations
 
-Keep a call log with date, time, phone number, collector name, and what was said. Save all voicemails, texts, and emails. Check if your state allows one-party consent recording -- if so, record every call. Keep all letters and envelopes (postmarks matter). Screenshot any social media contact. This evidence is critical for any FDCPA lawsuit.
+Keep a call log with date, time, phone number, collector name, and what was said. Save all voicemails, texts, and emails. Check if your state allows one-party consent recording - if so, record every call. Keep all letters and envelopes (postmarks matter). Screenshot any social media contact. This evidence is critical for any FDCPA lawsuit.
 
 Filing a Lawsuit
 
@@ -39,7 +129,7 @@ Up to $1,000 in statutory damages per lawsuit, plus actual damages (no cap), plu
 
 Is there a time limit to sue?
 
-Yes -- one year from the date of the violation. This is strict. If you have evidence of violations, consult an attorney promptly.
+Yes - one year from the date of the violation. This is strict. If you have evidence of violations, consult an attorney promptly.
 
 Can I sue even if I owe the debt?
 
@@ -73,10 +163,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -147,18 +237,18 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Stopping Electronic Debt Collection -- Texts, Emails, and Social Media
+## Stopping Electronic Debt Collection - Texts, Emails, and Social Media
 Source: https://ceaseanddesistdebt.com/electronic-communications.html
 
-Stopping Electronic Debt Collection -- Texts, Emails, and Social Media
+Stopping Electronic Debt Collection - Texts, Emails, and Social Media
 
 Your rights in the digital age of debt collection
 
-ceaseanddesistdebt.com › Stopping Electronic Debt Collection -- Texts, Emails, and Social Media
+ceaseanddesistdebt.com › Stopping Electronic Debt Collection - Texts, Emails, and Social Media
 
 Regulation F and Electronic Communications
 
-In November 2021, the CFPB's Regulation F (12 CFR Part 1006) updated the FDCPA rules for the digital age. Collectors can now contact you via text message, email, and social media direct messages -- but with significant restrictions. Every electronic message must include a clear opt-out mechanism, and you can opt out of any specific communication channel at any time.
+In November 2021, the CFPB's Regulation F (12 CFR Part 1006) updated the FDCPA rules for the digital age. Collectors can now contact you via text message, email, and social media direct messages - but with significant restrictions. Every electronic message must include a clear opt-out mechanism, and you can opt out of any specific communication channel at any time.
 
 Stopping Text Messages
 
@@ -188,7 +278,7 @@ Reply STOP to the text message, then follow up with a written cease and desist l
 
 Can collectors leave voicemails?
 
-Yes, but voicemails must comply with FDCPA rules -- no disclosure of the debt to third parties. A limited-content message (name, phone number, no mention of debt) is permitted. You can include voicemails in your cease and desist.
+Yes, but voicemails must comply with FDCPA rules - no disclosure of the debt to third parties. A limited-content message (name, phone number, no mention of debt) is permitted. You can include voicemails in your cease and desist.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -218,10 +308,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -304,18 +394,18 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Your Rights Under the FDCPA -- Fair Debt Collection Practices Act
+## Your Rights Under the FDCPA - Fair Debt Collection Practices Act
 Source: https://ceaseanddesistdebt.com/fdcpa-rights.html
 
-Your Rights Under the FDCPA -- Fair Debt Collection Practices Act Explained
+Your Rights Under the FDCPA - Fair Debt Collection Practices Act Explained
 
 The federal law that protects you from abusive debt collectors
 
-ceaseanddesistdebt.com › Your Rights Under the FDCPA -- Fair Debt Collection Practices Act Explained
+ceaseanddesistdebt.com › Your Rights Under the FDCPA - Fair Debt Collection Practices Act Explained
 
 What the FDCPA Covers
 
-The Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) regulates the behavior of third-party debt collectors -- companies that collect debts on behalf of others or buy debts to collect. It does NOT apply to original creditors collecting their own debts (though some states extend similar protections). The law covers personal, family, and household debts including credit cards, medical bills, auto loans, and mortgages.
+The Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) regulates the behavior of third-party debt collectors - companies that collect debts on behalf of others or buy debts to collect. It does NOT apply to original creditors collecting their own debts (though some states extend similar protections). The law covers personal, family, and household debts including credit cards, medical bills, auto loans, and mortgages.
 
 What Collectors Cannot Do
 
@@ -375,10 +465,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -473,8 +563,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Cease Communication Letter -- Cease and Desist Debt Collectors [2026]
+## Cease Communication Letter - Cease and Desist Debt Collectors [2026]
 Source: https://ceaseanddesistdebt.com/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -484,7 +576,7 @@ How to Legally Stop Collection Calls and Letters
 
 Your Right to Stop Debt Collection Contact
 
-Under the Fair Debt Collection Practices Act (FDCPA, 15 U.S.C. 1692c(c)), you have the absolute right to tell a debt collector to stop contacting you. Once they receive your written cease and desist letter, they can only contact you one more time -- to confirm they received your letter or to notify you of a specific legal action (like a lawsuit). After that, all calls, letters, texts, and emails must stop.
+Under the Fair Debt Collection Practices Act (FDCPA, 15 U.S.C. 1692c(c)), you have the absolute right to tell a debt collector to stop contacting you. Once they receive your written cease and desist letter, they can only contact you one more time - to confirm they received your letter or to notify you of a specific legal action (like a lawsuit). After that, all calls, letters, texts, and emails must stop.
 
 This is one of the most powerful consumer protection tools available, and it costs nothing but a stamp.
 
@@ -492,7 +584,7 @@ When to Send a Cease and Desist
 
 Send one when: A collector is harassing you with excessive calls. You are being contacted about a debt you don't owe. The debt is beyond the statute of limitations. You want to communicate only in writing. The debt was already discharged in bankruptcy. You are judgment proof and collection is futile.
 
-Think carefully before sending when: The debt is valid and within the SOL -- the collector may sue instead of calling. You are negotiating a settlement -- stopping communication may end negotiations. You have not yet requested debt validation.
+Think carefully before sending when: The debt is valid and within the SOL - the collector may sue instead of calling. You are negotiating a settlement - stopping communication may end negotiations. You have not yet requested debt validation.
 
 How to Write an Effective Cease and Desist Letter
 
@@ -502,13 +594,13 @@ Send it via certified mail with return receipt requested so you have proof of de
 
 What Happens After You Send It
 
-The collector must stop all non-legal communication. They may send one final letter acknowledging your request. They may also notify you of a specific legal action they intend to take. If the debt is valid and within the SOL, the collector may decide to sue -- this is the main risk of a cease and desist. If the collector continues to contact you in violation of the FDCPA, each violation can result in statutory damages of up to $1,000 plus attorney fees.
+The collector must stop all non-legal communication. They may send one final letter acknowledging your request. They may also notify you of a specific legal action they intend to take. If the debt is valid and within the SOL, the collector may decide to sue - this is the main risk of a cease and desist. If the collector continues to contact you in violation of the FDCPA, each violation can result in statutory damages of up to $1,000 plus attorney fees.
 
 FDCPA Violations to Watch For
 
 After receiving your cease and desist, if the collector: calls you again (violation), sends collection letters (violation), contacts your employer (violation), contacts your family about the debt amount (violation), or reports new negative information to credit bureaus solely to punish you (potential violation).
 
-Document every violation with dates, times, and recordings if your state allows one-party consent recording. Many consumer protection attorneys take FDCPA cases on contingency -- they get paid from the collector's penalty, not from you.
+Document every violation with dates, times, and recordings if your state allows one-party consent recording. Many consumer protection attorneys take FDCPA cases on contingency - they get paid from the collector's penalty, not from you.
 
 Cease and Desist vs. Debt Validation
 
@@ -538,7 +630,7 @@ The FDCPA cease and desist right applies only to third-party debt collectors, no
 
 What if the collector keeps calling after receiving my letter?
 
-Each contact after receiving your cease and desist is a separate FDCPA violation. Document every call with date, time, and content. Contact a consumer protection attorney -- many take these cases on contingency. Statutory damages are up to $1,000 per case, plus actual damages and attorney fees.
+Each contact after receiving your cease and desist is a separate FDCPA violation. Document every call with date, time, and content. Contact a consumer protection attorney - many take these cases on contingency. Statutory damages are up to $1,000 per case, plus actual damages and attorney fees.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -574,10 +666,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -622,7 +714,7 @@ debtbuyerrights.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -767,6 +859,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 ceaseanddesistdebt.com
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -779,6 +872,8 @@ Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 ---
 
@@ -824,7 +919,7 @@ Sincerely,
 
 How to Send It
 
-Always send via certified mail with return receipt requested (USPS green card). This costs about $4-5 total and gives you proof of delivery -- which is essential if you later need to prove the collector received your letter. Keep a photocopy of the letter itself, the certified mail receipt, and the signed green card when it comes back.
+Always send via certified mail with return receipt requested (USPS green card). This costs about $4-5 total and gives you proof of delivery - which is essential if you later need to prove the collector received your letter. Keep a photocopy of the letter itself, the certified mail receipt, and the signed green card when it comes back.
 
 Some people also send a copy via regular first-class mail on the same day, so there are two delivery methods documented.
 
@@ -844,7 +939,7 @@ The FDCPA does not specify the delivery method, but certified mail with return r
 
 Will sending this letter hurt my credit score?
 
-The letter itself has no impact on your credit score. The collector may still report the debt to credit bureaus -- a cease and desist stops communication, not credit reporting. However, if the debt is already reported, the letter does not make it worse.
+The letter itself has no impact on your credit score. The collector may still report the debt to credit bureaus - a cease and desist stops communication, not credit reporting. However, if the debt is already reported, the letter does not make it worse.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -874,10 +969,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1039,10 +1134,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1125,18 +1220,18 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Debt Verification and Validation -- Your Right to Demand Proof
+## Debt Verification and Validation - Your Right to Demand Proof
 Source: https://ceaseanddesistdebt.com/verification-rights.html
 
-Debt Verification and Validation -- Your Right to Demand Proof
+Debt Verification and Validation - Your Right to Demand Proof
 
 Make the collector prove you actually owe the debt
 
-ceaseanddesistdebt.com › Debt Verification and Validation -- Your Right to Demand Proof
+ceaseanddesistdebt.com › Debt Verification and Validation - Your Right to Demand Proof
 
 Validation vs. Verification
 
-Validation notice (15 U.S.C. 1692g): Within 5 days of first contact, the collector must send you a written notice containing the debt amount, the creditor's name, and a statement of your right to dispute. Verification: If you dispute the debt in writing within 30 days, the collector must cease collection and obtain verification -- proof that the debt is yours and the amount is correct -- before resuming.
+Validation notice (15 U.S.C. 1692g): Within 5 days of first contact, the collector must send you a written notice containing the debt amount, the creditor's name, and a statement of your right to dispute. Verification: If you dispute the debt in writing within 30 days, the collector must cease collection and obtain verification - proof that the debt is yours and the amount is correct - before resuming.
 
 The 30-Day Window
 
@@ -1144,15 +1239,15 @@ You have 30 days from receiving the initial validation notice to send a written 
 
 What Verification Must Include
 
-Courts have generally required at minimum: the name of the original creditor, the amount owed (with an accounting), and some documentation linking you to the debt. A collector cannot simply restate the amount -- they must provide documentary evidence. If they cannot verify, they must stop collecting entirely.
+Courts have generally required at minimum: the name of the original creditor, the amount owed (with an accounting), and some documentation linking you to the debt. A collector cannot simply restate the amount - they must provide documentary evidence. If they cannot verify, they must stop collecting entirely.
 
 How to Send a Verification Request
 
-Write a short letter: state that you are disputing the debt, request verification, and demand that all collection activity stop until verification is provided. Send via certified mail with return receipt. Keep copies. This is different from a cease and desist -- verification forces the collector to prove the debt before continuing, while a cease and desist simply stops all contact.
+Write a short letter: state that you are disputing the debt, request verification, and demand that all collection activity stop until verification is provided. Send via certified mail with return receipt. Keep copies. This is different from a cease and desist - verification forces the collector to prove the debt before continuing, while a cease and desist simply stops all contact.
 
 Combining Verification and Cease and Desist
 
-You can use both tools strategically. First, within 30 days: send a verification request (forces them to prove the debt). If they cannot verify: the matter is resolved. If they verify: then send a cease and desist to stop further contact. Or if the debt is clearly not yours, send both simultaneously -- dispute the debt and demand all contact stop.
+You can use both tools strategically. First, within 30 days: send a verification request (forces them to prove the debt). If they cannot verify: the matter is resolved. If they verify: then send a cease and desist to stop further contact. Or if the debt is clearly not yours, send both simultaneously - dispute the debt and demand all contact stop.
 
 Frequently Asked Questions
 
@@ -1196,10 +1291,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1357,10 +1452,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1445,14 +1540,14 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## When Debt Collectors Violate the Law -- Your Remedies
+## When Debt Collectors Violate the Law - Your Remedies
 Source: https://ceaseanddesistdebt.com/when-collectors-violate.html
 
-When Debt Collectors Violate the Law -- Your Remedies
+When Debt Collectors Violate the Law - Your Remedies
 
 How to document violations and get compensation
 
-ceaseanddesistdebt.com › When Debt Collectors Violate the Law -- Your Remedies
+ceaseanddesistdebt.com › When Debt Collectors Violate the Law - Your Remedies
 
 Recognizing FDCPA Violations
 
@@ -1460,15 +1555,15 @@ Common violations include: calling before 8 AM or after 9 PM, continuing to call
 
 How to Document Violations
 
-Call log: Record every call with date, time, phone number, what was said, and who said it. Letters: Keep every piece of mail in a folder. Texts and emails: Screenshot and save. Voicemails: Do not delete -- save them. Witnesses: If a third party heard a disclosure, get their written statement. The more documentation you have, the stronger your case.
+Call log: Record every call with date, time, phone number, what was said, and who said it. Letters: Keep every piece of mail in a folder. Texts and emails: Screenshot and save. Voicemails: Do not delete - save them. Witnesses: If a third party heard a disclosure, get their written statement. The more documentation you have, the stronger your case.
 
 Where to File Complaints
 
-CFPB (Consumer Financial Protection Bureau): consumerfinance.gov/complaint -- the most effective federal complaint. FTC (Federal Trade Commission): reportfraud.ftc.gov. State Attorney General: every state has a consumer protection division. State licensing authority: some states license debt collectors and can revoke licenses for violations.
+CFPB (Consumer Financial Protection Bureau): consumerfinance.gov/complaint - the most effective federal complaint. FTC (Federal Trade Commission): reportfraud.ftc.gov. State Attorney General: every state has a consumer protection division. State licensing authority: some states license debt collectors and can revoke licenses for violations.
 
 Finding a Consumer Protection Attorney
 
-The National Association of Consumer Advocates (NACA) maintains a directory at consumeradvocates.org. Many FDCPA attorneys work on contingency -- they get paid from the collector's penalty, not from your pocket. Initial consultations are typically free. Look for attorneys who specifically list FDCPA or TCPA practice areas.
+The National Association of Consumer Advocates (NACA) maintains a directory at consumeradvocates.org. Many FDCPA attorneys work on contingency - they get paid from the collector's penalty, not from your pocket. Initial consultations are typically free. Look for attorneys who specifically list FDCPA or TCPA practice areas.
 
 Damages You Can Recover
 
@@ -1516,10 +1611,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1617,11 +1712,11 @@ The FDCPA covers personal, family, and household debts being collected by a thir
 
 Debts NOT Covered
 
-Original creditors collecting their own debts are not subject to the FDCPA (some states have separate laws). Business debts are excluded -- the FDCPA only covers consumer debts. Federal student loans collected by the Department of Education are government actions, not subject to the FDCPA. Tax debts collected by the IRS or state tax agencies are government collections. Court-ordered obligations like child support and alimony are also excluded.
+Original creditors collecting their own debts are not subject to the FDCPA (some states have separate laws). Business debts are excluded - the FDCPA only covers consumer debts. Federal student loans collected by the Department of Education are government actions, not subject to the FDCPA. Tax debts collected by the IRS or state tax agencies are government collections. Court-ordered obligations like child support and alimony are also excluded.
 
 Gray Areas
 
-Private student loans in collections ARE covered by the FDCPA. Medical debts being collected by a hospital's internal collection department may not be covered (they are the original creditor), but once sold to an outside agency, they are. Mortgage servicers have a complex relationship with the FDCPA -- some courts treat them as debt collectors, others do not.
+Private student loans in collections ARE covered by the FDCPA. Medical debts being collected by a hospital's internal collection department may not be covered (they are the original creditor), but once sold to an outside agency, they are. Mortgage servicers have a complex relationship with the FDCPA - some courts treat them as debt collectors, others do not.
 
 State Laws May Expand Your Rights
 
@@ -1669,10 +1764,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1757,18 +1852,18 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Debt Collectors Calling Your Workplace -- Your Rights and How to Stop It
+## Debt Collectors Calling Your Workplace - Your Rights and How to Stop It
 Source: https://ceaseanddesistdebt.com/workplace-calls.html
 
-Debt Collectors Calling Your Workplace -- Your Rights and How to Stop It
+Debt Collectors Calling Your Workplace - Your Rights and How to Stop It
 
 Collectors have strict limits on workplace contact
 
-ceaseanddesistdebt.com › Debt Collectors Calling Your Workplace -- Your Rights and How to Stop It
+ceaseanddesistdebt.com › Debt Collectors Calling Your Workplace - Your Rights and How to Stop It
 
 The FDCPA Rule on Workplace Calls
 
-Under 15 U.S.C. 1692c(a)(3), a debt collector cannot contact you at work if they know (or have reason to know) that your employer prohibits such calls. Once you tell a collector -- verbally or in writing -- that you cannot receive calls at work, they must stop immediately. Any further workplace calls are FDCPA violations.
+Under 15 U.S.C. 1692c(a)(3), a debt collector cannot contact you at work if they know (or have reason to know) that your employer prohibits such calls. Once you tell a collector - verbally or in writing - that you cannot receive calls at work, they must stop immediately. Any further workplace calls are FDCPA violations.
 
 What Collectors Can and Cannot Tell Your Employer
 
@@ -1780,7 +1875,7 @@ Step 1: Tell the collector verbally during the call that you cannot receive call
 
 If a Collector Already Told Your Boss
 
-If a collector disclosed your debt to your employer, that is a clear FDCPA violation. Document what was said, when, and who heard it. Contact a consumer protection attorney immediately -- this type of violation often results in significant damages because it can affect your employment. You may have claims for both statutory damages ($1,000) and actual damages (humiliation, job consequences).
+If a collector disclosed your debt to your employer, that is a clear FDCPA violation. Document what was said, when, and who heard it. Contact a consumer protection attorney immediately - this type of violation often results in significant damages because it can affect your employment. You may have claims for both statutory damages ($1,000) and actual damages (humiliation, job consequences).
 
 Frequently Asked Questions
 
@@ -1824,10 +1919,10 @@ Further Reading & Resources
 Authority sources for deeper research on wage garnishment and debt collection:
 
 15 U.S.C. Section 1673
-Cornell LII -- federal garnishment limits
+Cornell LII - federal garnishment limits
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Debt Collection
 CFPB complaint tool
@@ -1910,98 +2005,82 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Cease Communication Letter for Debt Collectors -- Free Template [2026]
-Source: https://ceaseanddesistdebt.com/cease-communication-letter.html
+## Privacy Policy - ceaseanddesistdebt.com
+Source: https://ceaseanddesistdebt.com/privacy.html
 
-Cease Communication Letter for Debt Collectors
+ceaseanddesistdebt.com
 
-A free template letter that legally stops debt collectors from contacting you
+Home
+Privacy
 
-Home » Cease Communication Letter
+Privacy Policy
 
-Your Right to Stop Debt Collection Communication
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-Under the Fair Debt Collection Practices Act (FDCPA), 15 U.S.C. Section 1692c(c), you have the legal right to demand that a debt collector stop all communication with you. Once the collector receives your written cease communication letter, they can only contact you to: (1) acknowledge they received your letter, (2) notify you of a specific action they intend to take (such as filing a lawsuit), or (3) inform you they are terminating collection efforts.
+Data We Collect
 
-Free Cease Communication Letter Template
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-Copy and customize this template. Send it via certified mail with return receipt requested so you have proof of delivery.
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-[Your Name]
-[Your Address]
-[City, State ZIP]
+What We Don't Do
 
-[Date]
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-[Debt Collector Name]
-[Debt Collector Address]
-[City, State ZIP]
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-Re: Account Number [XXXX] (if known)
+Cookies
 
-Dear Sir or Madam:
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-Pursuant to my rights under the Fair Debt Collection Practices Act, 15 U.S.C. Section 1692c(c), I am requesting that you cease all communication with me regarding the above-referenced account and any other debts you allege I owe.
+Third-Party Services
 
-This letter is not an acknowledgment that I owe this debt or any portion of it. I am exercising my legal right to direct you to stop contacting me.
+Google Analytics (GA4) - aggregate traffic measurement
 
-Please govern yourself accordingly.
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-Sincerely,
-[Your Signature]
-[Your Printed Name]
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-What Happens After You Send the Letter
+GitHub Pages - hosting
 
-After receiving your cease communication letter:
+Contact Forms & Email
 
-The collector must stop calling, texting, emailing, and mailing you
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-They can still file a lawsuit -- the letter does not prevent legal action
+Children's Privacy
 
-The debt does not go away -- it remains valid and may appear on your credit report
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-The collector may sell the debt to another collector (who is also bound by FDCPA)
+Data Retention
 
-If they continue contacting you after receiving the letter, they are violating the FDCPA and you may have grounds for a lawsuit ($1,000 statutory damages plus actual damages and attorney fees)
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-When to Use a Cease Communication Letter vs. Filing Bankruptcy
+Your Rights
 
-A cease communication letter is a temporary fix -- it stops the calls but does not eliminate the debt. If you are overwhelmed by multiple debts, filing bankruptcy may be a more comprehensive solution. The automatic stay in bankruptcy stops all collection activity -- including lawsuits -- and applies to all creditors simultaneously.
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-Frequently Asked Questions
+Network Policy
 
-Does a cease communication letter stop all debt collection?
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-It stops the specific debt collector who receives the letter from calling, texting, emailing, or mailing you. It does not prevent lawsuits, does not eliminate the debt, and does not affect original creditors (not covered by FDCPA).
+Changes
 
-Can debt collectors ignore a cease and desist letter?
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-No. A debt collector who continues contacting you after receiving a written cease communication notice is violating federal law. You can sue for $1,000 in statutory damages plus actual damages and attorney fees.
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-Should I send a cease communication letter or file bankruptcy?
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-If you have one or two debts and just want the calls to stop, a letter may suffice. If you have multiple unpayable debts, bankruptcy provides broader protection -- the automatic stay stops all creditor contact and a discharge permanently eliminates eligible debts.
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-Check your bankruptcy discharge eligibility with our free screening tool.
-
-Free Discharge Screener
-
-About This Data: Based on the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) and CFPB Regulation F (12 CFR 1006). Not legal advice.
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener
-Automatic Stay
-
-Free education. Not legal advice. A project of the Open Bankruptcy Project.
+No ads. No affiliate links. No data sold. Supported by donations.
 
 ---
 
 ## Additional FAQ Pages
 
 
-### Can a debt collector still sue me after a cease and desist? -- Cease and Desist Debt Collectors
+### Can a debt collector still sue me after a cease and desist? - Cease and Desist Debt Collectors
 Source: https://ceaseanddesistdebt.com/paa/can-a-debt-collector-still-sue-me-after-a-cease-and-desist.html
 
 Skip to content
@@ -2077,7 +2156,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### How do I write a cease and desist letter to a debt collector? -- Cease and Desist Debt Collectors
+### How do I write a cease and desist letter to a debt collector? - Cease and Desist Debt Collectors
 Source: https://ceaseanddesistdebt.com/paa/how-do-i-write-a-cease-and-desist-letter-to-a-debt-collector.html
 
 Skip to content
@@ -2147,7 +2226,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### Common Questions -- Cease and Desist Debt Collectors
+### Common Questions - Cease and Desist Debt Collectors
 Source: https://ceaseanddesistdebt.com/paa/index.html
 
 ceaseanddesistdebt.com
@@ -2172,7 +2251,7 @@ openbankruptcyproject.org
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
 
-### What are my rights when dealing with debt collectors? -- Cease and Desist Debt Collectors
+### What are my rights when dealing with debt collectors? - Cease and Desist Debt Collectors
 Source: https://ceaseanddesistdebt.com/paa/what-are-my-rights-when-dealing-with-debt-collectors.html
 
 Skip to content
