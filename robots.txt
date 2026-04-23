@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://ceaseanddesistdebt.com/sitemap.xml
+
+Sitemap: https://ceaseanddesistdebt.com/sitemapindex.xml
